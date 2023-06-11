@@ -2,12 +2,31 @@
 
 ## The Best Spam Tool You Will Find Ever <br> Fast, Free & Efficient.
 
-## Can Work 24X7 Hours.
+## Features : <br>
+- Multiple Account Supported
+- Bot & User Spam At The Same Time
+- 24 X 7
+- No Rate Limit
+- Achieve your goal fast
+
 
 # SETUP GUIDE
-- Make a Bot in (Discord Developer Portal)[https://discord.dev/]
-- Copy The Token
-- Fork The Git Repository or type <br>
-   ``` git clone https://github.com/SoujanyaChaudhuri/DiscordSpamBot.git```
-- Rename The example.env to .env and enter the bot token
-- Run The Program & type `!spam on` to start the spammng
+## SELF BOT : 
+- Press `ctrl + shift + i`, go to applications and copy your token.
+- Make a .env file with the value of TOKEN & paste your token.
+- Run the code.
+- If you want to attach multiple accounts just duplicate the index.js file, open a new shell and type `node yourfilename.js` Replace the "yourfilename" with the name of the new file.
+- To Start Spamming Type `!spam on` & to stop it type `!spam stop`
+
+## DISCORD BOT :
+- Create a discord bot in <a href="https://discord.dev">Discord Developer Portal</a>
+- Copy The Token & make a .env file with the value BTOKEN and paste the token.
+- Enable all the intents on the bot & run the code.
+- If you want to attach multiple accounts just duplicate the index.js file, open a new shell and type `node yourfilename.js` Replace the "yourfilename" with the name of the new file.
+- To Start Spamming Type `!spam on` & to stop it type `!spam stop`.
+
+# DISCLAIMER
+## This code is made for educational purposes. Using Self-Bot is illegal and ProGamerSoujanya is not responsible if your account gets terminated.
+
+# <a href="https://youtube.com/c/PROGAMERSOUJANYA">YOUTUBE</a>
+# <a href="https://discord.gg/3SJCk7gKYs">DISCORD</a>
